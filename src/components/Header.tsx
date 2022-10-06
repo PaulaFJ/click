@@ -4,7 +4,7 @@ import { Menu } from './ui/Menu'
 export function Header() {
   return (
     <header className="absolute md:top-0 flex bg-transparent md:h-[80px] w-screen md:pr-32 md:pl-24 items-center justify-between text-white z-30">
-      <img src={logo} alt="Clickecom" width="250" height="150" className="w-[150px] h-[100px]" />
+      <img src={logo} alt="Clickecom" width="250" height="150" className="w-[250px] h-[150px]" />
 
       <Menu />
 
