@@ -9,7 +9,7 @@ import { Bubble } from './ui/Bubble'
 export function Brands() {
   return (
     <section className="z-20 w-screen h-[950px] mt-20 relative bg-bg-brands bg-cover bg-center overflow-hidden" data-aos="zoom-in" data-aos-duration="1000" data-aos-easing="ease-in-quad">
-      <div className="m-auto w-full px-6 lg:px-40 h-auto top-20 left-0 right-0 flex flex-col items-center justify-center text-center text-white pt-8 lg:pt-24">
+      <div className="m-auto w-full px-6 lg:px-40 h-auto top-20 left-0 right-0 flex flex-col items-center justify-center text-center text-white pt-12 lg:pt-24">
         <div>
           <span className="text-xl tracking-widest leading-loose">SEU PRODUTOS NAS MAIORES</span>
           <h1 className="text-5xl">Vitrines da internet</h1>
