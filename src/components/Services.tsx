@@ -33,7 +33,7 @@ export const SERVICES = [
 
 export function Services() {
   return (
-    <section id="servicos" className="bg-bg-service relative w-screen h-full bg-cover bg-center overflow-hidden pb-10" data-aos="zoom-in" data-aos-duration="1000" data-aos-easing="ease-in-quad" >
+    <section id="servicos" className="bg-bg-service relative w-screen h-full bg-cover bg-center overflow-hidden pb-4" data-aos="zoom-in" data-aos-duration="1000" data-aos-easing="ease-in-quad" >
       <div className="pt-44 lg:pt-12 m-auto w-full lg:px-40 h-full lg:flex items-center text-center lg:text-start align-middle justify-between">
         <div className="flex-1 text-[#25234d]">
           <h1 className="text-[2.5rem] lg:text-5xl mb-8 leading-none font-bold">Levamos seu <br />negócio para o <br />próximo nível.</h1>
